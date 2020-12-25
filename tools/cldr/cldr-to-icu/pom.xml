@@ -83,7 +83,7 @@
         <dependency>
             <groupId>com.ibm.icu</groupId>
             <artifactId>icu4j</artifactId>
-            <version>67.1</version>
+            <version>68.1</version>
         </dependency>
 
         <!-- Useful common libraries. Note that some of the code in the CLDR library is also
